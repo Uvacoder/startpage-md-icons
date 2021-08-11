@@ -19,13 +19,13 @@ const items = [
     title: 'Website',
     subtitle: 'Look at my work!',
     image: website,
-    link: 'youwebsite.com',
+    link: 'google.com',
   },
   {
     title: 'GitHub',
-    subtitle: '@anushbhatia',
+    subtitle: '@22940dev',
     image: github,
-    link: 'https://github.com/anushbhatia',
+    link: 'https://github.com/22940dev',
   },
   {
     title: 'Instagram',
@@ -59,9 +59,9 @@ const items = [
   },
   {
     title: 'LinkedIn',
-    subtitle: '@anushbhatia',
+    subtitle: '@doc22940',
     image: linkedin,
-    link: 'https://linkedin.com/in/anushbhatia',
+    link: 'https://linkedin.com/in/doc22940',
   },
   {
     title: 'Dev',
