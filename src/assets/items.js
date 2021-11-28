@@ -23,9 +23,9 @@ const items = [
   },
   {
     title: 'GitHub',
-    subtitle: '@22940dev',
+    subtitle: '@uvacoder',
     image: github,
-    link: 'https://github.com/22940dev',
+    link: 'https://github.com/uvacoder',
   },
   {
     title: 'Instagram',
@@ -53,19 +53,19 @@ const items = [
   },
   {
     title: 'Dribbble',
-    subtitle: '@anushbhatia',
+    subtitle: '@uvacoder',
     image: dribbble,
-    link: 'https://dribbble.com/anushbhatia',
+    link: 'https://dribbble.com/uvacoder',
   },
   {
     title: 'LinkedIn',
-    subtitle: '@doc22940',
+    subtitle: '@alecbcampbell',
     image: linkedin,
-    link: 'https://linkedin.com/in/doc22940',
+    link: 'https://linkedin.com/in/alecbcampbell',
   },
   {
     title: 'Dev',
-    subtitle: '@anushbhatia',
+    subtitle: '@fu4303',
     image: dev,
     link: 'https://dev.to/',
   },
