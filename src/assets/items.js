@@ -19,7 +19,7 @@ const items = [
     title: 'Website',
     subtitle: 'Look at my work!',
     image: website,
-    link: 'google.com',
+    link: 'abclinks.vercel.app',
   },
   {
     title: 'GitHub',
@@ -31,7 +31,7 @@ const items = [
     title: 'Instagram',
     subtitle: '@anush_bhatia',
     image: instagram,
-    link: 'https://instagram.com/anush_bhatia',
+    link: 'https://instagram.com/uvacoder',
   },
   {
     title: 'Apps',
@@ -43,13 +43,13 @@ const items = [
     title: 'Twitter',
     subtitle: '@AnushBhatia',
     image: twitter,
-    link: 'https://twitter.com/AnushBhatia',
+    link: 'https://twitter.com/VaLandscapes',
   },
   {
     title: 'Behance',
     subtitle: '@anushbhatia',
     image: behance,
-    link: 'https://behance.net/anushbhatia',
+    link: 'https://behance.net/uvacoder',
   },
   {
     title: 'Dribbble',
@@ -67,7 +67,7 @@ const items = [
     title: 'Dev',
     subtitle: '@fu4303',
     image: dev,
-    link: 'https://dev.to/',
+    link: 'https://dev.to/fu4303',
   },
   {
     title: 'Stack Overflow',
@@ -79,7 +79,7 @@ const items = [
     title: 'Medium',
     subtitle: '@anushbhatia',
     image: medium,
-    link: 'https://medium.com/',
+    link: 'https://medium.com/doc22940',
   },
   {
     title: 'Facebook',
